@@ -1,45 +1,44 @@
-<!-- Animated Header Wave -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/tsc.gif" width="100%" alt="Animated Coding Header">
-</div>
+<!-- Twinkling & Waving Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0052D4&height=250&section=header&text=Jershin%20Demetrius&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Animated Header" />
 
-<h1 align="center">Welcome to My GitHub!</h1>
-
-<!-- Animated Typing Text -->
+<!-- Futuristic Typing Text -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hi,+I'm+Jershin+Demetrius+👋;Student+at+Karunya+Institute;Generative+AI+%26+Cloud+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Innovating+with+Generative+AI+%26+Cloud;🎨+Crafting+UIs+on+Figma+(EduStudySYNC);💻+Developing+CampusConnect;🎓+Tech+Scholar+at+Karunya+Institute" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-### 🚀 About Me
-
-- 🎓 Studying at **Karunya Institute of Technology and Sciences**
-- ☁️ Actively working with **Generative AI, Google Cloud, and Gemini Models**
-- 🛠️ Developing **CampusConnect** (Event & Club Management System) & **Monitoring_Tool**
-- 🎨 Designing collaborative workspaces like **EduStudySYNC & Stutify SYNC**
-- 🌱 Expanding my skillset through programs with **Innoknowvex & Aenexz Tech**
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/jershin-demetrius)
-
----
-
-### 💻 Tech Stack & Tools
-
+<!-- Sleek Animated Tech Illustration -->
 <div align="center">
-  <a href="https://skillicons.dev">
-    <!-- Dynamic SVG Icons (Modern Dark Theme) -->
-    <img src="https://skillicons.dev/icons?i=gcp,python,figma,js,html,css,git,github,vscode,react&theme=dark" alt="My Skills" />
-  </a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Animated 3D computer" />
+</div>
+
+<br/>
+
+### 🏆 GitHub Trophies (Gamified & Animated)
+<div align="center">
+  <!-- Replace YOUR_GITHUB_USERNAME below -->
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&row=1&column=6&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 
 ---
 
-### 📊 GitHub Stats (Live & Animated)
-
+### ⚡ Tech Arsenal
 <div align="center">
-  <!-- IMPORTANT: Replace YOUR_GITHUB_USERNAME with your actual username below -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Dynamic Dark Theme Icons -->
+  <img src="https://skillicons.dev/icons?i=gcp,python,figma,js,react,html,css,git,github,vscode,docker,nodejs&theme=dark&perline=12" alt="Skills" />
 </div>
+
+---
+
+### 📈 Live Animated Stats
+<div align="center">
+  <!-- Replace YOUR_GITHUB_USERNAME below -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9" alt="Top Languages" />
+</div>
+
+<!-- Animated Footer Wave to close the design -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,100:36BCF7&height=150&section=footer" width="100%" alt="Footer" />
