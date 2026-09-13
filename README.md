@@ -1,5 +1,5 @@
 <!-- Twinkling & Waving Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0052D4&height=250&section=header&text=Jershin%20Demetrius&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Animated Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0052D4&height=250&section=header&text=J%20Jershin%20Demetrius&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Animated Header" />
 
 <!-- Futuristic Typing Text -->
 <div align="center">
